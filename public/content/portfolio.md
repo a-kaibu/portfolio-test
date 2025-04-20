@@ -19,7 +19,7 @@
 
 ### プロジェクト1
 
-![お魚くわえたドラ猫〜 追っかけて〜](https://github.com/a-kaibu/portfolio-test/blob/main/public/sazaesan.png)
+![お魚くわえたドラ猫〜 追っかけて〜](https://github.com/a-kaibu/portfolio-test/blob/main/public/content/sazaesan.jpg)
 
 - **説明**: 説明文をここに書きます
 - **使用技術**: React, TypeScript, Tailwind CSS
